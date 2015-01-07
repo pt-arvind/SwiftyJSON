@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
 
   s.osx.deployment_target = "10.9"
   s.ios.deployment_target = "7.0"
-  s.source   = { :git => "https://github.com/SwiftyJSON/SwiftyJSON.git", :tag => "2.1.2"}
+  s.source   = { :git => "https://github.com/pt-arvind/SwiftyJSON.git", :tag => "2.1.2"}
   s.source_files = "Source/*.swift"
 end
